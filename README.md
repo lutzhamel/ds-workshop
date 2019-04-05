@@ -1,5 +1,9 @@
 # Data Science Workshop
 
+Dr. Lutz Hamel
+Dept. of Computer Science and Statistics
+lutzhamel@uri.edu
+
 This is a two part data science workshop for Python held at the University of Rhode Island:
 
 1. Jupyter Notebooks and data manipulation with Pandas:<br>
